@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/proveedores/beneficios", {data:[{}],fetch:[],mutations:void 0});

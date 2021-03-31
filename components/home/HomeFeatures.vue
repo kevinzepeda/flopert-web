@@ -6,8 +6,11 @@
                 <div class="col-md-4">
                     <div class="py-5 rounded shadow bg-feature" id="ordenar">
                         <div class="p-4">
-                            <h3>Comprá todo<br> bajo demanda</h3>
-                            <a href="#" class="btn btn-sm btn-soft-primary mt-2">Realizar Pedido</a>
+                            <h3>Realiza envíos<br> de forma sencilla </h3>
+                            <p>
+                                Registra tu empresa y genera<br>ingresos con tus camiones.
+                            </p>
+                            <button-link url="https://flopp.me/merchantsignup" action="Registrar mi flotilla" className="btn-sm btn-soft-primary mt-2"></button-link>
                         </div>
                     </div>
                 </div><!--end col-->
@@ -15,8 +18,11 @@
                 <div class="col-md-4 mt-4 pt-2 mt-sm-0 pt-sm-0">
                     <div class="py-5 rounded shadow bg-feature" id="entregas">
                         <div class="p-4">
-                            <h3>Entregas <br> Inteligentes</h3>
-                            <a href="#" class="btn btn-sm btn-soft-primary mt-2">Realizar Pedido</a>
+                            <h3>Entregas periódicas<br>Inteligentes</h3>
+                            <p>
+                                Ordena tus alimentos a<br>un mejor precio.
+                            </p>
+                            <button-link url="https://flopp.me" action="Realizar compra" className="btn-sm btn-soft-primary mt-2"></button-link>
                         </div>
                     </div>
                 </div><!--end col-->
@@ -24,8 +30,11 @@
                 <div class="col-md-4 mt-4 pt-2 mt-sm-0 pt-sm-0">
                     <div class="py-5 rounded shadow bg-feature" id="facil">
                         <div class="p-4">
-                            <h3>Alimentos sin <br> desperdicio</h3>
-                            <a href="#" class="btn btn-sm btn-soft-primary mt-2">Realizar Pedido</a>
+                            <h3>Tu distribución<br>de forma fácil!</h3>
+                            <p>
+                                Registrate como proveedor <br>y genera más ventas.
+                            </p>
+                            <button-link url="https://flopp.me/merchantsignup" action="Registrar mi empresa" className="btn-sm btn-soft-primary mt-2"></button-link>
                         </div>
                     </div>
                 </div><!--end col-->

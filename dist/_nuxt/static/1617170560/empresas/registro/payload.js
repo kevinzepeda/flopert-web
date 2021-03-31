@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/empresas/registro", {data:[{}],fetch:[],mutations:void 0});

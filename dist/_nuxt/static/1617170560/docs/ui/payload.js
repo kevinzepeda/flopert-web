@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/docs/ui", {data:[{}],fetch:[],mutations:void 0});

@@ -4,14 +4,14 @@ export default {
 
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
-    title: 'Flopert',
+    title: 'Flopert :: Compra alimentos frescos todos los días.',
     meta: [
       { charset: 'utf-8' },
-      { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' }
+      { name: 'viewport', content: 'width=device-width, initial-scale=1, user-scalable=no' },
+      { hid: 'description', name: 'description', content: 'Comprá productos cerca de ti y ahorra hasta 30% en todos tus ingredientes, con productos frescos, directos del campo, sobre pedido. Trabajamos bajo demanda, lo que nos permite no tener almacenes y por lo tanto, menos desperdicio de alimentos.' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      { rel: 'icon', type: 'image/x-icon', href: '/icon.png' }
     ]
   },
 
@@ -39,8 +39,14 @@ export default {
     '@nuxtjs/pwa',
     // https://go.nuxtjs.dev/content
     '@nuxt/content',
+    //sitemap
+    '@nuxtjs/sitemap',
   ],
-
+  sitemap: {
+    // options
+    path: '/sitemap.xml',
+    hostname: 'https://flopert.com'
+  },
   // Axios module configuration (https://go.nuxtjs.dev/config-axios)
   axios: {},
 
