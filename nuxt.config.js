@@ -8,13 +8,73 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1, user-scalable=no' },
-      { hid: 'description', name: 'description', content: 'Comprá productos cerca de ti y ahorra hasta 30% en todos tus ingredientes, con productos frescos, directos del campo, sobre pedido. Trabajamos bajo demanda, lo que nos permite no tener almacenes y por lo tanto, menos desperdicio de alimentos.' }
+      { hid: 'description', name: 'description', content: 'Comprá productos cerca de ti y ahorra hasta 30% en todos tus ingredientes, con productos frescos, directos del campo, sobre pedido. Trabajamos bajo demanda, lo que nos permite no tener almacenes y por lo tanto, menos desperdicio de alimentos.' },
+      { hid: 'og:type', name: 'og:type', content: 'website' },
+      {
+        hid: 'og:url',
+        name: 'og:url',
+        content: 'https://flopert.com',
+      },
+      { hid: 'og:locale', name: 'og:locale', content: 'es_MX' },
+      {
+        hid: 'og:image',
+        name: 'og:image',
+        content: '/images/store/papa-hortalizas.jpg',
+      },
+      { name: 'msapplication-TileColor', content: '#000000' },
+      {
+        name: 'msapplication-TileImage',
+        content: '/icon.png',
+      },
+      { name: 'theme-color', content: '#000000' },
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/icon.png' }
-    ]
+      {
+        rel: 'icon',
+        type: 'image/x-icon',
+        href: '/favicon.ico',
+      },
+      {
+        rel: 'icon',
+        type: 'image/png',
+        sizes: '32x32',
+        href: '/icon.png',
+      },
+      {
+        rel: 'icon',
+        type: 'image/png',
+        sizes: '194x194',
+        href: '/icon.png',
+      },
+      {
+        rel: 'icon',
+        type: 'image/png',
+        sizes: '192x192',
+        href: '/icon.png',
+      },
+      {
+        rel: 'icon',
+        type: 'image/png',
+        sizes: '16x16',
+        href: '/icon.png',
+      },
+      {
+        rel: 'mask-icon',
+        href: '/app.svg',
+        color: '#fff',
+      },
+      {
+        rel: 'shortcut icon',
+        type: 'image/png',
+        href: '/icon.png',
+      },
+      {
+        rel: 'apple-touch-icon',
+        type: 'image/png',
+        href: '/icon.png',
+      },
+    ],
   },
-
   // Global CSS (https://go.nuxtjs.dev/config-css)
   css: [
   ],

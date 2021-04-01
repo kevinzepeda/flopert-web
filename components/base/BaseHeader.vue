@@ -26,7 +26,6 @@
                     </nuxt-link>
                 </div>   
                 <button-link url="https://flopp.me/signup" action="Entrar" className="btn-primary" ></button-link>
-                <button-link url="https://flopp.me/signup" action="Registrarse" className="btn-outline-primary" ></button-link>
                 <div id="navigation">
                     <!-- Navigation Menu-->   
                     <ul class="navigation-menu">

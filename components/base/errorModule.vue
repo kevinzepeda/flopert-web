@@ -30,7 +30,7 @@
     // layout: 'clean', // you can set a custom layout for the error page
     methods: {
         back(){
-            this.$router.go(-2)
+            this.$router.go(-1)
         }
     }
   }

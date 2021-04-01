@@ -22,7 +22,7 @@
                                 <form action="https://flopp.me/searcharea" target="_blank">
                                     <div class="form-group mb-0 position-relative">
                                         <div class="input-group">
-                                            <input type="text" name="foodname" class="form-control" required>
+                                            <input type="text" name="foodname" placeholder="¿Qué necesitas?" class="form-control" required>
                                             <div class="input-group-append">
                                                 <button class="btn btn-primary submitBnt" type="submit">Buscar Ahora</button>
                                             </div>
@@ -43,102 +43,100 @@
                         </div>
                     </div>
                 </div><!--end col-->
-                <!-- Start Catagories -->
-                <div class="container" id="categorias">
-                    <div class="row">
-                        <div class="col-lg-2 col-md-4 col-6 mt-4 pt-2">
-                            <div class="card explore-feature border-0 rounded text-center bg-white">
-                                <a href="https://flopp.me/cuisine/frutas" class="text-dark" target="_blank">
-                                    <div class="card-body">
-                                        <div class="icon rounded-circle shadow-lg d-inline-block h2">
-                                            <i class="uil uil-align-alt"></i>
-                                        </div>
-                                        <div class="content mt-3">
-                                            <h6 class="mb-0"><a class="title text-dark">Frutas</a></h6>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-                        </div><!--end col-->
-                        
-                        <div class="col-lg-2 col-md-4 col-6 mt-4 pt-2">
-                            <div class="card explore-feature border-0 rounded text-center bg-white">
-                                <a href="https://flopp.me/cuisine/verduras"  class="text-dark" target="_blank">
-                                    <div class="card-body">
-                                        <div class="icon rounded-circle shadow-lg d-inline-block h2">
-                                            <i class="uil uil-trees"></i>
-                                        </div>
-                                        <div class="content mt-3">
-                                            <h6 class="mb-0"><a class="title text-dark">Verduras</a></h6>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-                        </div><!--end col-->
-                        
-                        <div class="col-lg-2 col-md-4 col-6 mt-4 pt-2">
-                            <div class="card explore-feature border-0 rounded text-center bg-white">
-                                <a href="https://flopp.me/cuisine/congelados"  class="text-dark" target="_blank">
-                                    <div class="card-body">
-                                        <div class="icon rounded-circle shadow-lg d-inline-block h2">
-                                            <i class="uil uil-snowflake"></i>
-                                        </div>
-                                        <div class="content mt-3">
-                                            <h6 class="mb-0"><a class="title text-dark">Congelados</a></h6>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-                        </div><!--end col-->
-                        
-                        <div class="col-lg-2 col-md-4 col-6 mt-4 pt-2">
-                            <div class="card explore-feature border-0 rounded text-center bg-white">
-                                <a href="https://flopp.me/cuisine/deshidratados"  class="text-dark" target="_blank">
-                                    <div class="card-body">
-                                        <div class="icon rounded-circle shadow-lg d-inline-block h2">
-                                            <i class="uil uil-sun"></i>
-                                        </div>
-                                        <div class="content mt-3">
-                                            <h6 class="mb-0"><a class="title text-dark">Deshidratados</a></h6>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-                        </div><!--end col-->
-                        
-                        <div class="col-lg-2 col-md-4 col-6 mt-4 pt-2">
-                            <div class="card explore-feature border-0 rounded text-center bg-white">
-                                <a href="https://flopp.me/cuisine/hierbas"  class="text-dark" target="_blank">
-                                    <div class="card-body">
-                                        <div class="icon rounded-circle shadow-lg d-inline-block h2">
-                                            <i class="uil uil-flower"></i>
-                                        </div>
-                                        <div class="content mt-3">
-                                            <h6 class="mb-0"><a class="title text-dark">Hierbas y Especias</a></h6>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-                        </div><!--end col-->
-                        
-                        <div class="col-lg-2 col-md-4 col-6 mt-4 pt-2">
-                            <div class="card explore-feature border-0 rounded text-center bg-white">
-                                <a href="https://flopp.me/cuisine/granos"  class="text-dark" target="_blank">
-                                    <div class="card-body">
-                                        <div class="icon rounded-circle shadow-lg d-inline-block h2">
-                                            <i class="uil uil-ellipsis-h"></i>
-                                        </div>
-                                        <div class="content mt-3">
-                                            <h6 class="mb-0"><a class="title text-dark">Granos</a></h6>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-                        </div><!--end col-->
-                    </div><!--end row-->
-                </div><!--end container-->
-                <!-- Start Catagories -->
             </div><!--end row-->
+            <div class="container" id="categorias">
+                <div class="row">
+                      <div class="col-lg-2 col-md-4 col-6 mt-4 pt-2">
+                        <div class="card explore-feature border-0 rounded text-center bg-white">
+                            <a href="https://flopp.me/cuisine/frutas" class="text-dark" target="_blank">
+                                <div class="card-body">
+                                    <div class="icon rounded-circle shadow-lg d-inline-block h2">
+                                        <i class="uil uil-align-alt"></i>
+                                    </div>
+                                    <div class="content mt-3">
+                                        <p class="mb-0 title text-dark">Frutas</p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div><!--end col-->
+                    
+                    <div class="col-lg-2 col-md-4 col-6 mt-4 pt-2">
+                        <div class="card explore-feature border-0 rounded text-center bg-white">
+                            <a href="https://flopp.me/cuisine/verduras"  class="text-dark" target="_blank">
+                                <div class="card-body">
+                                    <div class="icon rounded-circle shadow-lg d-inline-block h2">
+                                        <i class="uil uil-trees"></i>
+                                    </div>
+                                    <div class="content mt-3">
+                                        <p class="mb-0 title text-dark">Verduras</p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div><!--end col-->
+                    
+                    <div class="col-lg-2 col-md-4 col-6 mt-4 pt-2">
+                        <div class="card explore-feature border-0 rounded text-center bg-white">
+                            <a href="https://flopp.me/cuisine/congelados"  class="text-dark" target="_blank">
+                                <div class="card-body">
+                                    <div class="icon rounded-circle shadow-lg d-inline-block h2">
+                                        <i class="uil uil-snowflake"></i>
+                                    </div>
+                                    <div class="content mt-3">
+                                        <p class="mb-0 title text-dark">Congelados</p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div><!--end col-->
+                    
+                    <div class="col-lg-2 col-md-4 col-6 mt-4 pt-2">
+                        <div class="card explore-feature border-0 rounded text-center bg-white">
+                            <a href="https://flopp.me/cuisine/deshidratados"  class="text-dark" target="_blank">
+                                <div class="card-body">
+                                    <div class="icon rounded-circle shadow-lg d-inline-block h2">
+                                        <i class="uil uil-sun"></i>
+                                    </div>
+                                    <div class="content mt-3">
+                                        <p class="mb-0 title text-dark">Deshidratados</p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div><!--end col-->
+                    
+                    <div class="col-lg-2 col-md-4 col-6 mt-4 pt-2">
+                        <div class="card explore-feature border-0 rounded text-center bg-white">
+                            <a href="https://flopp.me/cuisine/hierbas"  class="text-dark" target="_blank">
+                                <div class="card-body">
+                                    <div class="icon rounded-circle shadow-lg d-inline-block h2">
+                                        <i class="uil uil-flower"></i>
+                                    </div>
+                                    <div class="content mt-3">
+                                        <p class="mb-0 title text-dark">Hierbas y Especias</p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div><!--end col-->
+                    
+                    <div class="col-lg-2 col-md-4 col-6 mt-4 pt-2">
+                        <div class="card explore-feature border-0 rounded text-center bg-white">
+                            <a href="https://flopp.me/cuisine/granos"  class="text-dark" target="_blank">
+                                <div class="card-body">
+                                    <div class="icon rounded-circle shadow-lg d-inline-block h2">
+                                        <i class="uil uil-ellipsis-h"></i>
+                                    </div>
+                                    <div class="content mt-3">
+                                        <p class="mb-0 title text-dark">Granos</p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div><!--end col-->
+                </div><!--end row-->
+            </div><!--end container-->
         </div><!--end container--> 
     </section><!--end section-->
     <!-- Hero End -->
