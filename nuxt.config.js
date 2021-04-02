@@ -74,6 +74,13 @@ export default {
         href: '/icon.png',
       },
     ],
+    head: {
+      script: [
+        {src: 'https://www.googletagmanager.com/gtag/js?id=G-ZZMSFGWR3K'},
+        {src: '/js/analytics.js'},
+        {src: '/js/hotjar.js'},
+      ],
+    }
   },
   // Global CSS (https://go.nuxtjs.dev/config-css)
   css: [
@@ -112,7 +119,6 @@ export default {
 
   // Content module configuration (https://go.nuxtjs.dev/config-content)
   content: {},
-
   // Build Configuration (https://go.nuxtjs.dev/config-build)
   build: {
   }
