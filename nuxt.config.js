@@ -76,7 +76,7 @@ export default {
     ],
     head: {
       script: [
-        {src: 'https://www.googletagmanager.com/gtag/js?id=G-ZZMSFGWR3K'},
+        {src: 'https://www.googletagmanager.com/gtag/js?id=G-ZZMSFGWR3K',async: true},
         {src: '/js/analytics.js'},
         {src: '/js/hotjar.js'},
       ],
