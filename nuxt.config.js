@@ -74,13 +74,11 @@ export default {
         href: '/icon.png',
       },
     ],
-    head: {
-      script: [
-        {src: 'https://www.googletagmanager.com/gtag/js?id=G-ZZMSFGWR3K',async: true},
-        {src: '/js/analytics.js'},
-        {src: '/js/hotjar.js'},
-      ],
-    }
+    script: [
+      {src: 'https://www.googletagmanager.com/gtag/js?id=G-ZZMSFGWR3K',async: true},
+      {src: '/js/analytics.js'},
+      {src: '/js/hotjar.js'},
+    ],
   },
   // Global CSS (https://go.nuxtjs.dev/config-css)
   css: [
