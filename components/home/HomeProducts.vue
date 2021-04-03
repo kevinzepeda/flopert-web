@@ -6,7 +6,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12">
-                        <h5 class="mb-0">Productos más buscados</h5>
+                        <h2 class="mb-0">Productos más buscados en flopert.</h2>
                     </div><!--end col-->
                 </div><!--end row-->
 

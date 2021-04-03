@@ -6,9 +6,9 @@
                 <div class="col-md-4">
                     <div class="py-5 rounded shadow bg-feature" id="ordenar">
                         <div class="p-4">
-                            <h3>Realiza envíos<br> de forma sencilla </h3>
+                            <h2>Realiza envíos<br> de forma sencilla </h2>
                             <p>
-                                Registra tu empresa y genera<br>ingresos con tus camiones.
+                                Registra tu empresa en flopert <br>y genera ingresos con tus camiones.
                             </p>
                             <button-link url="https://flopp.me/merchantsignup" action="Registrar mi flotilla" className="btn-sm btn-soft-primary mt-2"></button-link>
                         </div>
@@ -18,9 +18,9 @@
                 <div class="col-md-4 mt-4 pt-2 mt-sm-0 pt-sm-0">
                     <div class="py-5 rounded shadow bg-feature" id="entregas">
                         <div class="p-4">
-                            <h3>Entregas periódicas<br>Inteligentes</h3>
+                            <h2>Entregas periódicas<br>Inteligentes</h2>
                             <p>
-                                Ordena tus alimentos a<br>un mejor precio.
+                                Ordena tus alimentos con flopert<br> a un mejor precio.
                             </p>
                             <button-link url="https://flopp.me" action="Realizar compra" className="btn-sm btn-soft-primary mt-2"></button-link>
                         </div>
@@ -30,9 +30,9 @@
                 <div class="col-md-4 mt-4 pt-2 mt-sm-0 pt-sm-0">
                     <div class="py-5 rounded shadow bg-feature" id="facil">
                         <div class="p-4">
-                            <h3>Tu distribución<br>de forma fácil!</h3>
+                            <h2>Tu distribución<br>de forma fácil!</h2>
                             <p>
-                                Registrate como proveedor <br>y genera más ventas.
+                                Registrate como proveedor de flopert <br>y genera más ventas.
                             </p>
                             <button-link url="https://flopp.me/merchantsignup" action="Registrar mi empresa" className="btn-sm btn-soft-primary mt-2"></button-link>
                         </div>

@@ -16,7 +16,7 @@
                             :backDelay="2000"
                             :smartBackspace="true"
                             :loop="true">
-                            <h1 class="heading mb-3">Alimentos frescos para tu <span class="element text-primary typing"></span><br> todos los días</h1>
+                            <h1 class="heading mb-3">Alimentos frescos para tu <span class="element text-primary typing"></span><br> todos los días, con flopert.</h1>
                         </vue-typed-js>
                             <div class="pt-4 pb-4">
                                 <form action="https://flopp.me/searcharea" target="_blank">
@@ -30,7 +30,7 @@
                                     </div>
                                 </form><!--end form-->
                             </div>
-                        <p class="para-desc text-muted">Comprá productos cerca de ti y ahorra hasta 30% en todos tus ingredientes, con productos frescos, directos del campo. Trabajamos bajo demanda, lo que nos permite no tener almacenes y por lo tanto hay menos desperdicio de alimentos.</p>
+                        <p class="para-desc text-muted">Comprá productos cerca de ti y ahorra hasta 30% en todos tus ingredientes, con productos frescos, directos del campo. En flopert trabajamos bajo demanda, lo que nos permite no tener almacenes y por lo tanto hay menos desperdicio de alimentos.</p>
                     </div>
                 </div><!--end col-->
                 <div class="col-lg-6 col-md-5 mt-4 pt-2 mt-sm-0 pt-sm-0">

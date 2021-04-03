@@ -21,7 +21,7 @@
                     <div class="col-lg-7 col-md-6 mt-4 mt-sm-0 pt-2 pt-sm-0">
                         <div class="section-title ml-lg-4">
                             <h4 class="title mb-4">Organizaciones & <br> Empresas que colaboran.</h4>
-                            <p class="text-muted">Ya somos más de 5K+ empresas que juntos contribuimos para reducir el desperdicio de alimentos. Unidos todos podemos beneficiarnos.</p>
+                            <p class="text-muted">Ya somos más de 5K+ empresas en flopert que juntos contribuimos para reducir el desperdicio de alimentos. Unidos todos podemos beneficiarnos.</p>
                             <ul class="list-unstyled text-muted">
                                 <li class="mb-0"><span class="text-primary h5 mr-2"><i class="uil uil-check-circle"></i></span>Altos estandares de calídad</li>
                                 <li class="mb-0"><span class="text-primary h5 mr-2"><i class="uil uil-check-circle"></i></span>Entregas Diarias</li>
@@ -65,7 +65,7 @@
                                         </div>
                                         <div class="col-md-12">
                                             <label>¿Cuál es tu interés? <span class="text-danger">*</span></label>
-                                            <select class="form-group position-relative custom-select" required>
+                                            <select class="form-group position-relative custom-select" name="interes" required>
                                                 <option selected="NA">Selecciona tu Interés</option>
                                                 <option value="proveedor">Ser proveedor</option>
                                                 <option value="comprador">Comprar</option>
@@ -108,7 +108,8 @@
                                         </a>
                                         <div class="collapse" :class="{show: showOne}" aria-labelledby="headingfifone">
                                             <div class="card-body px-2 py-4">
-                                                <p class="text-muted mb-0 faq-ans">Solicita tus alimentos o ingredientes en nuestra plataforma, programa tu envío o solicitalo lo más pronto posible, tu entrega estará puntual y lista para recibirla, si no es lo que esperabas, puedes rechazar la entrega y tu dinero será devuelto..</p>
+                                                <p class="text-muted mb-0 faq-ans">Solicita tus alimentos o ingredientes en nuestra plataforma (flopert), programa tu envío o solicitalo lo más pronto posible, tu entrega estará puntual y lista para recibirla, si no es lo que esperabas, puedes rechazar la entrega y tu dinero será devuelto.</p>
+                                                <button-link url="https://flopp.com" className="btn-primary" action="Entrar"></button-link>
                                             </div>
                                         </div>
                                     </div>
@@ -121,7 +122,7 @@
                                         </a>
                                         <div class="collapse" :class="{show: showTwo}">
                                             <div class="card-body px-2 py-4">
-                                                <p class="text-muted mb-0 faq-ans">El proveedor no recibirá el dinero hasta que tu producto esté en óptimas condiciones en las puertas de tu negocio, se recaba una firma y evidencia fotográfica para validar los envíos y las condiciones.</p>
+                                                <p class="text-muted mb-0 faq-ans">El proveedor no recibirá el dinero hasta que tu producto esté en óptimas condiciones en tu puerta, es la garantia floopert, se recaba una firma y evidencia fotográfica para validar los envíos y las condiciones.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -134,19 +135,20 @@
                                         </a>
                                         <div class="collapse" :class="{show: showTree}">
                                             <div class="card-body px-2 py-4">
-                                                <p class="text-muted mb-0 faq-ans">Si te interesa generar un cambio y unirte a más de 5K+ marcas que apoyan este movimiento, puedes afiliar tu negocio de distribución de alimentos, mientras nosotros nos encargamos de la logística.</p>
+                                                <p class="text-muted mb-0 faq-ans">Si te interesa generar un cambio y unirte a más de 5K+ marcas que apoyan este movimiento con flopert, puedes afiliar tu negocio de distribución de alimentos, mientras nosotros nos encargamos de la logística.</p>
+                                                <button-action action="Registrate como proveedor" place="/proveedores/registro" className="btn-primary"></button-action>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="card border-0 rounded shadow mb-2">
                                         <a class="faq position-relative collapsed" @click="showFour = !showFour">
                                             <div class="card-header border-0 bg-light p-3 pr-5">
-                                                <h6 class="title mb-0">¿ Cómo es el pago y cuando se realíza? </h6>
+                                                <h6 class="title mb-0">¿Cómo es el pago y cuando se realíza? </h6>
                                             </div>
                                         </a>
                                         <div class="collapse" :class="{show: showFour}">
                                             <div class="card-body px-2 py-4">
-                                                <p class="text-muted mb-0 faq-ans">Paga mediante tarjeta de crédito y/o débito, tranferencia bancaría y se realizá al momento de solicitar un pedído.</p>
+                                                <p class="text-muted mb-0 faq-ans">Paga mediante tarjeta de crédito y/o débito de forma segura con flopert pay y se realizá al momento de solicitar un pedído.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -159,6 +161,7 @@
                                         <div class="collapse" :class="{show: showFive}">
                                             <div class="card-body px-2 py-4">
                                                 <p class="text-muted mb-0 faq-ans">Puedes obtener una ganancia extras en tu empresa de transporte si procesas nuestros envíos. Registrate aquí y nos pondremos en contacto contigo. </p>
+                                                <button-action action="Registrate como transportista" place="/transportista/registro" className="btn-primary"></button-action>
                                             </div>
                                         </div>
                                     </div>
@@ -208,9 +211,10 @@
 
 <script>
 import buttonAction from "../buttons/buttonAction.vue"
+import ButtonLink from '../buttons/buttonLink.vue'
 
 export default {
-  components: { buttonAction },
+  components: { buttonAction, ButtonLink },
     data(){
         return {
             showOne: true,
