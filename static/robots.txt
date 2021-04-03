@@ -1,2 +1,7 @@
+User-agent: Googlebot
+Disallow: /not-found
+
 User-agent: *
-Disallow: /
+Allow: /
+
+Sitemap: https://flopert.com/sitemap.xml
