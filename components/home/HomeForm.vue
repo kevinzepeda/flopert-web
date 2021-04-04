@@ -161,7 +161,7 @@
                                         <div class="collapse" :class="{show: showFive}">
                                             <div class="card-body px-2 py-4">
                                                 <p class="text-muted mb-0 faq-ans">Puedes obtener una ganancia extras en tu empresa de transporte si procesas nuestros envíos. Registrate aquí y nos pondremos en contacto contigo. </p>
-                                                <button-action action="Registrate como transportista" place="/transportista/registro" className="btn-primary"></button-action>
+                                                <button-action action="Registrate como transportista" place="/transportistas/registro" className="btn-primary"></button-action>
                                             </div>
                                         </div>
                                     </div>

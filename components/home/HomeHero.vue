@@ -36,11 +36,11 @@
                 <div class="col-lg-6 col-md-5 mt-4 pt-2 mt-sm-0 pt-sm-0">
                     <div class="position-relative">
                         <img src="images/store/papa-hortalizas.jpg" class="rounded img-fluid mx-auto d-block" alt="">
-                        <div class="play-icon">
+                        <!-- <div class="play-icon">
                             <a href="http://vimeo.com/287684225" class="play-btn video-play-icon">
                                 <i class="mdi mdi-play text-primary rounded-circle bg-white shadow"></i>
                             </a>
-                        </div>
+                        </div> -->
                     </div>
                 </div><!--end col-->
             </div><!--end row-->
@@ -148,7 +148,7 @@ export default {
   components: { buttonLink },
     data(){
         return {
-            clientes: ['Restaurante', 'Negocio', 'Cocina', 'Hotel', 'Comedor']
+            clientes: ['Restaurante', 'Corporativo','Negocio', 'Cocina', 'Hotel', 'Comedor', 'Oficina']
         }
     }
 }
