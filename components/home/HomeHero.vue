@@ -3,7 +3,7 @@
     <section class="bg-invoice border-bottom d-table w-100" id="home">
         <div class="container">
             <div class="row align-items-center">
-                <div class="col-lg-6 col-md-7">
+                <div class="col-lg-12 col-md-12">
                     <div class="title-heading mt-4">
                         <div class="alert alert-light alert-pills shadow" role="alert">
                             <span class="badge badge-pill badge-danger mr-1">v1.5</span>
@@ -18,29 +18,18 @@
                             :loop="true">
                             <h1 class="heading mb-3">Alimentos frescos para tu <span class="element text-primary typing"></span><br> todos los días, con flopert.</h1>
                         </vue-typed-js>
-                            <div class="pt-4 pb-4">
-                                <form action="https://flopp.me/searcharea" target="_blank">
-                                    <div class="form-group mb-0 position-relative">
-                                        <div class="input-group">
-                                            <input type="text" name="foodname" placeholder="¿Qué necesitas?" class="form-control" required>
-                                            <div class="input-group-append">
-                                                <button class="btn btn-primary submitBnt" type="submit">Buscar Ahora</button>
-                                            </div>
+                        <div class="pt-4 pb-4">
+                            <form action="https://flopp.me/searcharea" target="_blank">
+                                <div class="form-group mb-0 position-relative">
+                                    <div class="input-group">
+                                        <input type="text" name="foodname" placeholder="¿Qué necesitas?" class="form-control big-search" required>
+                                        <div class="input-group-append">
+                                            <button class="btn btn-primary submitBnt" type="submit">Buscar Ahora</button>
                                         </div>
                                     </div>
-                                </form><!--end form-->
-                            </div>
-                        <p class="para-desc text-muted">Comprá productos cerca de ti y ahorra hasta 30% en todos tus ingredientes, con productos frescos, directos del campo. En flopert trabajamos bajo demanda, lo que nos permite no tener almacenes y por lo tanto hay menos desperdicio de alimentos.</p>
-                    </div>
-                </div><!--end col-->
-                <div class="col-lg-6 col-md-5 mt-4 pt-2 mt-sm-0 pt-sm-0">
-                    <div class="position-relative">
-                        <img src="images/store/papa-hortalizas.jpg" class="rounded img-fluid mx-auto d-block" alt="">
-                        <!-- <div class="play-icon">
-                            <a href="http://vimeo.com/287684225" class="play-btn video-play-icon">
-                                <i class="mdi mdi-play text-primary rounded-circle bg-white shadow"></i>
-                            </a>
-                        </div> -->
+                                </div>
+                            </form><!--end form-->
+                        </div>
                     </div>
                 </div><!--end col-->
             </div><!--end row-->
@@ -155,5 +144,7 @@ export default {
 </script>
 
 <style>
-
+input.form-control.big-search{
+    padding: 30px;
+}
 </style>
