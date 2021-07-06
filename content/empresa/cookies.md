@@ -3,7 +3,7 @@ title: Política de Cookies
 description: Acuerdo de tecnologías colectivamente llamadas "Cookies"
 url: https://flopert.com/empresa/cookies
 page1: Empresa
-slug1: empres/nosotros
+slug1: empresa/nosotros
 page2: Cookies
 slug2: empresa/cookies
 ---
