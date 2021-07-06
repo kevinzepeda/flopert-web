@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/proveedores/distribuidores", {data:[{}],fetch:[],mutations:void 0});

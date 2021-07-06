@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/transportistas/pymes", {data:[{}],fetch:[],mutations:void 0});

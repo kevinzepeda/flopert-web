@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/transportistas/beneficios", {data:[{}],fetch:[],mutations:void 0});

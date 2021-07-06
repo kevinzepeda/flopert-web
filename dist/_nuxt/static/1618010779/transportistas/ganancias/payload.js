@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/transportistas/ganancias", {data:[{}],fetch:[],mutations:void 0});

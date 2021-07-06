@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/empresas/facturacion", {data:[{}],fetch:[],mutations:void 0});

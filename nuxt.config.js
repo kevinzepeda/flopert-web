@@ -32,45 +32,6 @@ export default {
       {
         rel: 'icon',
         type: 'image/x-icon',
-        href: '/favicon.ico',
-      },
-      {
-        rel: 'icon',
-        type: 'image/png',
-        sizes: '32x32',
-        href: '/icon.png',
-      },
-      {
-        rel: 'icon',
-        type: 'image/png',
-        sizes: '194x194',
-        href: '/icon.png',
-      },
-      {
-        rel: 'icon',
-        type: 'image/png',
-        sizes: '192x192',
-        href: '/icon.png',
-      },
-      {
-        rel: 'icon',
-        type: 'image/png',
-        sizes: '16x16',
-        href: '/icon.png',
-      },
-      {
-        rel: 'mask-icon',
-        href: '/app.svg',
-        color: '#fff',
-      },
-      {
-        rel: 'shortcut icon',
-        type: 'image/png',
-        href: '/icon.png',
-      },
-      {
-        rel: 'apple-touch-icon',
-        type: 'image/png',
         href: '/icon.png',
       },
     ],

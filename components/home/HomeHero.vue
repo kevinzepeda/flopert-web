@@ -7,7 +7,7 @@
                     <div class="title-heading mt-4">
                         <div class="alert alert-light alert-pills shadow" role="alert">
                             <span class="badge badge-pill badge-danger mr-1">v1.5</span>
-                            <span class="content"> Nuevo <span class="text-primary">servicio</span> 24/7 - Todos los días.</span>
+                            <span class="content"> Ahora ya puedes ser <span class="badge badge-pill badge-secondary">Proveedor</span> con nosotros - <nuxt-link class="text-primary" to="/proveedores/registro">Registrate aqui</nuxt-link></span>
                         </div>
                         <vue-typed-js 
                             :strings="clientes"
@@ -23,8 +23,10 @@
                                 <div class="form-group mb-0 position-relative">
                                     <div class="input-group">
                                         <input type="text" name="foodname" placeholder="¿Qué necesitas?" class="form-control big-search" required>
+                                        <input type="text" name="s" placeholder="Dirección" class="form-control big-search" required>
                                         <div class="input-group-append">
-                                            <button class="btn btn-primary submitBnt" type="submit">Buscar Ahora</button>
+                                            <button class="btn btn-primary desktop submitBnt" type="submit">Buscar Ahora</button>
+                                            <button class="btn btn-primary mobile submitBnt" type="submit"><i class="uil uil-search"></i></button>
                                         </div>
                                     </div>
                                 </div>
@@ -133,6 +135,7 @@
 
 <script>
 import buttonLink from '../buttons/buttonLink.vue'
+
 export default {
   components: { buttonLink },
     data(){

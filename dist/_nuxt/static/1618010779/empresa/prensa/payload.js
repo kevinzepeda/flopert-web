@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/empresa/prensa", {data:[{}],fetch:[],mutations:void 0});

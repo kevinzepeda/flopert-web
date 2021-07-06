@@ -54,47 +54,8 @@
                                 </li>   
                             </ul>
                         </li>
-                        <li class="has-submenu">
-                            <a>Empresas</a><span class="menu-arrow"></span>
-                            <ul class="submenu">
-                                <li class="has-submenu"><a>Vende <span class="badge badge-success rounded">ahora</span></a><span class="submenu-arrow"></span>
-                                    <ul class="submenu">
-                                        <li><nuxt-link to="/proveedores/registro" > Registro</nuxt-link></li>
-                                        <li><nuxt-link to="/proveedores/beneficios" > ¿Cómo vender? </nuxt-link></li>
-                                        <li><nuxt-link to="/proveedores/comisiones" >Comisiones</nuxt-link></li>
-                                        <li><nuxt-link to="/proveedores/soporte" > Contacto</nuxt-link></li>
-                                    </ul> 
-                                </li>
-                                <li class="has-submenu"><a href="javascript:void(0)"> Transporta <span class="badge badge-primary rounded">ahora</span></a><span class="submenu-arrow"></span>
-                                    <ul class="submenu">
-                                        <li><nuxt-link to="/transportistas/registro" >Registro</nuxt-link></li>
-                                        <li><nuxt-link to="/transportistas/como-funciona" >¿Cómo funciona? </nuxt-link></li>
-                                        <li><nuxt-link to="/transportistas/ganancias" >Ganancias </nuxt-link></li>
-                                        <li><nuxt-link to="/transportistas/pagos" >Pagos</nuxt-link></li>
-                                        <li><nuxt-link to="/transportistas/soporte" >Contacto</nuxt-link></li>
-                                    </ul>  
-                                </li>
-                                <li class="has-submenu"><a href="javascript:void(0)"> Compra <span class="badge badge-danger rounded">ahora</span> </a><span class="submenu-arrow"></span>
-                                    <ul class="submenu">
-                                        <li><nuxt-link to="/empresas/registro" >Registro</nuxt-link></li>
-                                        <li><nuxt-link to="/empresas/como-funciona" >¿Cómo funciona? </nuxt-link></li>
-                                        <li><nuxt-link to="/empresas/descarga" >descarga </nuxt-link></li>
-                                    </ul>  
-                                </li>
-                            </ul>
-                        </li>
-                        <li class="has-submenu">
-                            <a>Nosotros</a><span class="menu-arrow"></span>
-                            <ul class="submenu">
-                                <li><nuxt-link to="/empresa/nosotros">Nosotros</nuxt-link></li>
-                                <li><nuxt-link to="/empresa/servicios">Servicios</nuxt-link></li>
-                                <li><nuxt-link to="/empresa/cultura">Cultura</nuxt-link></li>
-                                <li><nuxt-link to="/empresa/prensa">Prensa</nuxt-link></li>
-                                <li><nuxt-link to="/empresa/empleos">Empleos</nuxt-link></li>
-                                <li><nuxt-link to="/empresa/terminos">Términos</nuxt-link></li>
-                                <li><nuxt-link to="/empresa/privacidad">Privacidad</nuxt-link></li>
-                            </ul>
-                        </li>
+                        <li><nuxt-link to="/">Comprar</nuxt-link></li>
+                        <li><nuxt-link to="/">Vender</nuxt-link></li>
                     </ul><!--end navigation menu-->
                 </div><!--end navigation-->
             </div><!--end container-->
