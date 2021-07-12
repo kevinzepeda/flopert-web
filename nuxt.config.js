@@ -35,11 +35,11 @@ export default {
         href: '/icon.png',
       },
     ],
-    script: [
-      {src: 'https://www.googletagmanager.com/gtag/js?id=G-ZZMSFGWR3K',async: true},
-      {src: '/js/analytics.js'},
-      {src: '/js/hotjar.js'},
-    ],
+    // script: [
+    //   {src: 'https://www.googletagmanager.com/gtag/js?id=G-ZZMSFGWR3K',async: true},
+    //   {src: '/js/analytics.js'},
+    //   {src: '/js/hotjar.js'},
+    // ],
   },
   // Global CSS (https://go.nuxtjs.dev/config-css)
   css: [
@@ -47,6 +47,7 @@ export default {
   // Plugins to run before rendering page (https://go.nuxtjs.dev/config-plugins)
   plugins: [ 
     { src: "~/plugins/typed.js", ssr: true },
+    '~/plugins/gtm',
   ],
 
   // Auto import components (https://go.nuxtjs.dev/config-components)
@@ -67,7 +68,13 @@ export default {
     '@nuxt/content',
     //sitemap
     '@nuxtjs/sitemap',
+    // Google Tag Manager
+    '@nuxtjs/gtm',
   ],
+  gtm: {
+    id: 'GTM-TSLPHC5',
+    enambled: true,
+  },
   sitemap: {
     // options
     path: '/sitemap.xml',

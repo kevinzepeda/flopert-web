@@ -7,7 +7,7 @@
                     <div class="title-heading mt-4">
                         <div class="alert alert-light alert-pills shadow" role="alert">
                             <span class="badge badge-pill badge-danger mr-1">v1.5</span>
-                            <span class="content"> Ahora ya puedes ser <span class="badge badge-pill badge-secondary">Proveedor</span> con nosotros - <nuxt-link class="text-primary" to="/proveedores/registro">Registrate aqui</nuxt-link></span>
+                            <span class="content"> Ahora ya puedes ser <span class="badge badge-pill badge-secondary">Proveedor</span> con nosotros - <nuxt-link class="text-primary" @click.native="tagEvent()" to="/proveedores/registro">Registrate aqui</nuxt-link></span>
                         </div>
                         <vue-typed-js 
                             :strings="clientes"
@@ -142,7 +142,12 @@ export default {
         return {
             clientes: ['Restaurante', 'Corporativo','Negocio', 'Cocina', 'Hotel', 'Comedor', 'Oficina']
         }
-    }
+    },
+    methods:{
+        tagEvent(){
+            this.$gtm.push({ event: 'homePage.click.heroBadge'})
+        }
+    },
 }
 </script>
 

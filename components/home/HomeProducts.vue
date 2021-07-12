@@ -14,7 +14,7 @@
                     <div class="col-lg-3 col-md-6 col-12 mt-4 pt-2">
                         <div class="card shop-list border-0 position-relative overflow-hidden">
                             <div class="shop-image position-relative overflow-hidden rounded shadow">
-                                <a><img src="images/store/papa-blaca-2.jpg" class="img-fluid" alt="Papa Blanca sin desperdiciar alimentos"></a>
+                                <a><img src="/images/store/papa-blanca-2.jpg" class="img-fluid" alt="Papa Blanca sin desperdiciar alimentos"></a>
                                 <a class="overlay-work">
                                     <img src="images/store/papa-hortalizas.jpg" class="img-fluid" alt="hortaliza de papa Blanca">
                                 </a>

@@ -52,7 +52,7 @@ export default {
     background-repeat:no-repeat
 }
 #ordenar {
-    background-image:linear-gradient(90deg, #ffffff 0%, #ffffff70 100%), url(/images/concept/camion-montacaraga.png);
+    background-image:linear-gradient(90deg, #ffffff 0%, #ffffff70 100%), url(/images/concept/camion-montacarga.png);
 }
 #entregas {
     background-image:linear-gradient(90deg, #ffffff 0%, #ffffff70 100%), url(/images/concept/midle.png);
