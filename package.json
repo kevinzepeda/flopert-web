@@ -18,5 +18,7 @@
     "nuxt": "^2.14.6",
     "vue-typed-js": "^0.1.2"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "@nuxtjs/google-analytics": "^2.4.0"
+  }
 }
