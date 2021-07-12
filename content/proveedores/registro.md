@@ -15,7 +15,7 @@ description: Haz crecer tu negocio, mantente a la vista de todos y posiciónate 
                             <span class="badge badge-pill badge-danger mr-1">Lanzamiento</span>
                             <span class="content"> Aprovecha desde  <span class="text-primary">$99/mes</span> con 30% de descuento!</span>
                         </div>
-                        <a href="https://flopp.me/merchantsignup" target="_blank" class="btn btn-primary">Registrate ahora <i class="mdi mdi-chevron-right"></i></a>
+                        <a href="https://flopp.me/merchantsignup?from=LPR&to=SUP" target="_blank" class="btn btn-primary">Registrate ahora <i class="mdi mdi-chevron-right"></i></a>
                     </div>
                     <span class="text-muted">Tarifa pagando anualmente, más tarifa de referencia del 10%.<br> Precios incluyen IVA</span>
                 </div>
@@ -147,7 +147,7 @@ description: Haz crecer tu negocio, mantente a la vista de todos y posiciónate 
                         <li class="mb-0"><span class="text-primary h5 mr-2"><i class="uil uil-check-circle"></i></span>Posicionamiento estratégico.</li>
                     </ul>
                     <div class="mt-4">
-                        <a href="https://flopp.me/merchantsignup" target="_blank" class="btn btn-primary mt-2 mr-2">Registrate ahora <i class="mdi mdi-chevron-right"></i></a>
+                        <a href="https://flopp.me/merchantsignup?from=LPR&to=SUP" target="_blank" class="btn btn-primary mt-2 mr-2">Registrate ahora <i class="mdi mdi-chevron-right"></i></a>
                     </div>
                 </div>
             </div><!--end col-->

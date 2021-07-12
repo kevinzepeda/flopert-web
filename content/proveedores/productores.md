@@ -1,6 +1,6 @@
 ---
-title: 
-description:
+title: Empieza a vender tu producto con grandes empresas.
+description: Te ayudamos a entrar con clientes grandes, además con el crecimiento y evolución de tu negocio.
 ---
 <!-- Hero Start -->
 <section class="bg-half-170 d-table w-100" id="home">
@@ -15,7 +15,7 @@ description:
                         <span class="content"> Aprovecha desde  <span class="text-primary">$99/mes</span> con 30% de descuento!</span>
                     </div>
                     <div class="mt-4">
-                        <a href="https://flopp.me/merchantsignup" target="_blank" class="btn btn-primary mt-2 mr-2">Regístrate Ahora <i class="uil uil-arrow-right"></i></a>
+                        <a href="https://flopp.me/merchantsignup?from=LPP&to=SUP" target="_blank" class="btn btn-primary mt-2 mr-2">Regístrate Ahora <i class="uil uil-arrow-right"></i></a>
                     </div>
                     <span class="text-muted">Tarifa pagando anualmente, más tarifa de referencia del 10%. Precios incluyen IVA</span>
                 </div>
@@ -154,7 +154,7 @@ description:
                         <li class="mb-0"><span class="text-success h5 mr-2"><i class="uil uil-check-circle"></i></span>Posicionamiento estratégico</li>
                         <li class="mb-0"><span class="text-success h5 mr-2"><i class="uil uil-check-circle"></i></span>Productos destacados</li>
                     </ul>
-                    <a href="https://flopp.me/merchantsignup" target="_blank" class="mt-3 h6 text-primary">Regístrate ahora <i class="mdi mdi-chevron-right"></i></a>
+                    <a href="https://flopp.me/merchantsignup?from=LPP&to=SUP" target="_blank" class="mt-3 h6 text-primary">Regístrate ahora <i class="mdi mdi-chevron-right"></i></a>
                 </div>
             </div><!--end col-->
         </div><!--end row-->
@@ -190,7 +190,7 @@ description:
                             <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i class="uil uil-check-circle"></i></span>Limite de venta $50,000 / mes</li>
                             <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i class="uil uil-check-circle"></i></span>Productos limitado a 5 diferentes</li>
                         </ul>
-                        <a href="https://flopp.me/merchantsignup?do=step2&package_id=5" target="_blank" class="btn btn-primary mt-4">Elegir</a>
+                        <a href="https://flopp.me/merchantsignup?from=LPP&to=SUP&do=step2&package_id=5" target="_blank" class="btn btn-primary mt-4">Elegir</a>
                     </div>
                 </div>
             </div><!--end col-->
@@ -210,7 +210,7 @@ description:
                             <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i class="uil uil-check-circle"></i></span>Limite de venta $300,000 / mes</li>
                             <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i class="uil uil-check-circle"></i></span>Productos limitado a 50 diferentes</li>
                         </ul>
-                        <a href="https://flopp.me/merchantsignup?do=step2&package_id=6" target="_blank" class="btn btn-primary mt-4">Elegir</a>
+                        <a href="https://flopp.me/merchantsignup?from=LPP&to=SUP&do=step2&package_id=6" target="_blank" class="btn btn-primary mt-4">Elegir</a>
                     </div>
                 </div>
             </div><!--end col-->
@@ -230,7 +230,7 @@ description:
                             <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i class="uil uil-check-circle"></i></span>Sin limite de venta</li>
                             <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i class="uil uil-check-circle"></i></span>Productos sin limite</li>
                         </ul>
-                        <a href="https://flopp.me/merchantsignup?do=step2&package_id=7" target="_blank" class="btn btn-primary mt-4">Elegir</a>
+                        <a href="https://flopp.me/merchantsignup?from=LPP&to=SUP&do=step2&package_id=7" target="_blank" class="btn btn-primary mt-4">Elegir</a>
                     </div>
                 </div>
             </div><!--end col-->

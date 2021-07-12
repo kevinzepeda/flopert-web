@@ -7,7 +7,7 @@
                     <div class="title-heading mt-4">
                         <div class="alert alert-light alert-pills shadow" role="alert">
                             <span class="badge badge-pill badge-danger mr-1">v1.5</span>
-                            <span class="content"> Ahora ya puedes ser <span class="badge badge-pill badge-secondary">Proveedor</span> con nosotros - <nuxt-link class="text-primary" id="badgeRegisterHome" to="/proveedores/registro">Registrate aqui</nuxt-link></span>
+                            <span class="content"> Ahora ya puedes ser <span class="badge badge-pill badge-secondary">Proveedor</span> con nosotros - <nuxt-link class="text-primary" :to="{ path: '/proveedores/registro', query: { from: 'badgeHome' }}">Registrate aqui</nuxt-link></span>
                         </div>
                         <vue-typed-js 
                             :strings="clientes"

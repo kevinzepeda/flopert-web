@@ -1,6 +1,6 @@
 ---
-title: 
-description:
+title: Llega a más clientes fácil y rápido.
+description: Forma parte de nuestros proveedores, ten un mayor alcance y haz crecer tu negocio por menos de $3.50 MXN al día.
 ---
 <!-- Hero Start -->
 <section class="bg-half-170 d-table w-100" style="background: url('/images/store/ajo-puesto.jpg') center center;background-repeat:no-repeat;background-size:cover;" id="home">
@@ -15,7 +15,7 @@ description:
                             <span class="badge badge-pill badge-danger mr-1">Lanzamiento</span>
                             <span class="content"> Aprovecha desde  <span class="text-primary">$99/mes</span> con 30% de descuento!</span>
                         </div>
-                        <a href="https://flopp.me/merchantsignup" target="_blank" class="btn btn-primary mt-2 mr-2">Registrate ahora <i class="uil uil-arrow-right"></i></a>
+                        <a href="https://flopp.me/merchantsignup?from=LPD&to=SUP" target="_blank" class="btn btn-primary mt-2 mr-2">Registrate ahora <i class="uil uil-arrow-right"></i></a>
                     </div>
                     <span class="text-muted">Tarifa pagando anualmente, más tarifa de referencia del 10%.<br> Precios incluyen IVA</span>
                 </div>
@@ -41,7 +41,7 @@ description:
                     <div class="card-body">
                         <h4 class="title">Registrate</h4>
                         <p class="text-muted para">Elíge una de nuestras membresías para comenzar a vender tus productos y llega a miles de personas que buscan tu producto.</p>
-                        <a href="https://flopp.me/merchantsignup" target="_blank" class="text-primary">Registrate ahora <i class="mdi mdi-chevron-right"></i></a>
+                        <a href="https://flopp.me/merchantsignup?from=LPP&to=SUP" target="_blank" class="text-primary">Registrate ahora <i class="mdi mdi-chevron-right"></i></a>
                         <ul class="list-unstyled d-flex justify-content-between mb-0 mt-2">
                             <li class="step h1 mb-0 font-weight-bold">Paso 01.</li>
                             <li class="step-icon"><i class="h1 uil uil-clipboard-alt"></i></li>
@@ -54,7 +54,7 @@ description:
                     <div class="card-body">
                         <h4 class="title">Obtén más Ganacías</h4>
                         <p class="text-muted para">Con nuestra plataforma agregas valor a tu producto y tienes un alcance mucho mayor lo que genera más y mejores ganancias.</p>
-                        <a href="https://flopp.me/merchantsignup" target="_blank" class="text-primary">Registrate ahora <i class="mdi mdi-chevron-right"></i></a>
+                        <a href="https://flopp.me/merchantsignup?from=LPP&to=SUP" target="_blank" class="text-primary">Registrate ahora <i class="mdi mdi-chevron-right"></i></a>
                         <ul class="list-unstyled d-flex justify-content-between mb-0 mt-2">
                             <li class="step h1 mb-0 font-weight-bold">Paso 02.</li>
                             <li class="step-icon"><i class="h1 uil uil-money-withdrawal"></i></li>
@@ -67,7 +67,7 @@ description:
                     <div class="card-body">
                         <h4 class="title">Genera un mayor impacto</h4>
                         <p class="text-muted para">El objetivo de <span class="text-primary">Flopert</span>  es reducir el desperdicio de alimentos, puedes generar un impacto positivo y resaltar como una marca <span class="text-primary">#SinDesperdicioDeComida</span>.</p>
-                        <a href="https://flopp.me/merchantsignup" target="_blank" class="text-primary">Registrate ahora <i class="mdi mdi-chevron-right"></i></a>
+                        <a href="https://flopp.me/merchantsignup?from=LPP&to=SUP" target="_blank" class="text-primary">Registrate ahora <i class="mdi mdi-chevron-right"></i></a>
                         <ul class="list-unstyled d-flex justify-content-between mb-0 mt-2">
                             <li class="step h1 mb-0 font-weight-bold">Paso 03.</li>
                             <li class="step-icon"><i class="h1 uil uil-channel"></i></li>
@@ -122,7 +122,7 @@ description:
                             <span class="badge badge-pill badge-danger mr-1">Lanzamiento</span>
                             <span class="content"> Aprovecha desde  <span class="text-primary">$99/mes</span> con 30% de descuento!</span>
                         </div>
-                        <a href="https://flopp.me/merchantsignup" target="_blank" class="btn btn-primary mt-2 mr-2">Regístrate ahora <i class="uil uil-arrow-right"></i></a>
+                        <a href="https://flopp.me/merchantsignup?from=LPP&to=SUP" target="_blank" class="btn btn-primary mt-2 mr-2">Regístrate ahora <i class="uil uil-arrow-right"></i></a>
                     </div>
                     <span class="text-muted">Tarifa pagando anualmente, más tarifa de referencia del 10%.<br> Precios incluyen IVA</span>
                 </div>
