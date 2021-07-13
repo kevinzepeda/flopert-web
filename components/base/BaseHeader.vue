@@ -54,8 +54,8 @@
                                 </li>   
                             </ul>
                         </li>
-                        <li><nuxt-link to="/">Comprar</nuxt-link></li>
-                        <li><nuxt-link to="/">Vender</nuxt-link></li>
+                        <li><nuxt-link :to="{ path:'/empresas/registro', query: {from: 'menuTop'}}">Comprar</nuxt-link></li>
+                        <li><nuxt-link :to="{ path:'/proveedores/registro', query: {from: 'menuTop'}}">Vender</nuxt-link></li>
                     </ul><!--end navigation menu-->
                 </div><!--end navigation-->
             </div><!--end container-->
