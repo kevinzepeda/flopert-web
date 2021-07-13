@@ -72,8 +72,7 @@ export default {
     '@nuxtjs/gtm',
   ],
   gtm: {
-    id: 'GTM-TSLPHC5',
-    enambled: true,
+    id: 'GTM-TSLPHC5'
   },
   sitemap: {
     // options
