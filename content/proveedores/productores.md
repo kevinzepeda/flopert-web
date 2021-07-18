@@ -207,7 +207,7 @@ description: Te ayudamos a entrar con clientes grandes, además con el crecimien
                             <li class="h6 text-muted mb-0"><del class="text-danger ml-2">$1,799</del> $1,308 MXN</li>
                             <li class="h6 text-muted mb-0">Pagando anualmente</li>
                             <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i class="uil uil-check-circle"></i></span>Limite de menbresia 1 año</li>
-                            <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i class="uil uil-check-circle"></i></span>Limite de venta $300,000 / mes</li>
+                            <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i class="uil uil-check-circle"></i></span>Limite de venta $500,000 / mes</li>
                             <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i class="uil uil-check-circle"></i></span>Productos limitado a 50 diferentes</li>
                         </ul>
                         <a href="https://flopp.me/merchantsignup?from=LPP&to=SUP&do=step2&package_id=6" target="_blank" class="btn btn-primary mt-4">Elegir</a>
