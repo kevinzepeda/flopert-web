@@ -11,8 +11,8 @@ description: Te ayudamos a entrar con clientes grandes, además con el crecimien
                     <h1 class="heading mb-3">Empieza a vender tu <span class="text-primary">producto</span> con grandes empresas.</h1>
                     <p class="para-desc text-muted">Te ayudamos a entrar con clientes grandes, además con el crecimiento y evolución de tu negocio.</p>
                     <div class="alert alert-light alert-pills shadow" role="alert">
-                        <span class="badge badge-pill badge-danger mr-1">Lanzamiento</span>
-                        <span class="content"> Aprovecha desde  <span class="text-primary">$99/mes</span> con 30% de descuento!</span>
+                        <span class="badge badge-pill badge-danger mr-1">Hot Sale!</span>
+                        <span class="content"> Aprovecha desde  <span class="text-primary">$99/mes</span> + <img src="/images/gift.svg" style="max-height:20px;margin-top:-10px"> 3 Meses Gratis! <img src="/images/confetti.svg" style="max-height:20px;margin-top:-10px"></span>
                     </div>
                     <div class="mt-4">
                         <a href="https://flopp.me/merchantsignup?from=LPP&to=SUP" target="_blank" class="btn btn-primary mt-2 mr-2">Regístrate Ahora <i class="uil uil-arrow-right"></i></a>
@@ -185,8 +185,15 @@ description: Te ayudamos a entrar con clientes grandes, además con el crecimien
                         </div>
                         <ul class="list-unstyled mb-0 pl-0">
                             <li class="h6 text-muted mb-0"><del class="text-danger ml-2">$1,599</del> $1,188 MXN</li>
-                            <li class="h6 text-muted mb-0">Pagando anualmente</li>
-                            <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i class="uil uil-check-circle"></i></span>Limite de menbresia 1 año</li>
+                            <li class="h6 text-muted mb-0">
+                                <div class="alert alert-outline-primary alert-pills" role="alert" style="background-color: #fff88b;opacity: 0.8;background-image: radial-gradient( ellipse farthest-corner at 10px 10px , #efea3b, #efea3b 50%, #fff88b 50%);background-size: 10px 10px;border: none;">
+                                    <span class="badge badge-pill badge-danger mr-1">Hot Sale!</span>
+                                    <img src="/images/gift.svg" style="max-height:20px; margin-top:-10px;">
+                                    <span class="content">3 Meses Gratis!</span>
+                                    <img src="/images/confetti.svg" style="max-height:20px; margin-top:-10px;">
+                                </div>
+                            </li>
+                            <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i class="uil uil-check-circle"></i></span>Limite de membresía 1 año<br>+ 3 Meses Gratis!</li>
                             <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i class="uil uil-check-circle"></i></span>Limite de venta $50,000 / mes</li>
                             <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i class="uil uil-check-circle"></i></span>Productos limitado a 5 diferentes</li>
                         </ul>
@@ -205,8 +212,15 @@ description: Te ayudamos a entrar con clientes grandes, además con el crecimien
                         </div>
                         <ul class="list-unstyled mb-0 pl-0">
                             <li class="h6 text-muted mb-0"><del class="text-danger ml-2">$1,799</del> $1,308 MXN</li>
-                            <li class="h6 text-muted mb-0">Pagando anualmente</li>
-                            <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i class="uil uil-check-circle"></i></span>Limite de menbresia 1 año</li>
+                            <li class="h6 text-muted mb-0">
+                                <div class="alert alert-outline-primary alert-pills" role="alert" style="background-color: #fff88b;opacity: 0.8;background-image: radial-gradient( ellipse farthest-corner at 10px 10px , #efea3b, #efea3b 50%, #fff88b 50%);background-size: 10px 10px;border: none;">
+                                    <span class="badge badge-pill badge-danger mr-1">Hot Sale!</span>
+                                    <img src="/images/gift.svg" style="max-height:20px; margin-top:-10px;">
+                                    <span class="content">3 Meses Gratis!</span>
+                                    <img src="/images/confetti.svg" style="max-height:20px; margin-top:-10px;">
+                                </div>
+                            </li>
+                            <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i class="uil uil-check-circle"></i></span>Limite de membresía 1 año<br>+ 3 Meses Gratis!</li>
                             <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i class="uil uil-check-circle"></i></span>Limite de venta $500,000 / mes</li>
                             <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i class="uil uil-check-circle"></i></span>Productos limitado a 50 diferentes</li>
                         </ul>
@@ -225,8 +239,15 @@ description: Te ayudamos a entrar con clientes grandes, además con el crecimien
                         </div>
                         <ul class="list-unstyled mb-0 pl-0">
                             <li class="h6 text-muted mb-0"><del class="text-danger ml-2">$2,199</del> $1,548 MXN</li>
-                            <li class="h6 text-muted mb-0">Pagando anualmente</li>
-                            <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i class="uil uil-check-circle"></i></span>Limite de menbresia 1 año</li>
+                            <li class="h6 text-muted mb-0">
+                                <div class="alert alert-outline-primary alert-pills" role="alert" style="background-color: #fff88b;opacity: 0.8;background-image: radial-gradient( ellipse farthest-corner at 10px 10px , #efea3b, #efea3b 50%, #fff88b 50%);background-size: 10px 10px;border: none;">
+                                    <span class="badge badge-pill badge-danger mr-1">Hot Sale!</span>
+                                    <img src="/images/gift.svg" style="max-height:20px; margin-top:-10px;">
+                                    <span class="content">3 Meses Gratis!</span>
+                                    <img src="/images/confetti.svg" style="max-height:20px; margin-top:-10px;">
+                                </div>
+                            </li>
+                            <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i class="uil uil-check-circle"></i></span>Limite de membresía 1 año<br>+ 3 Meses Gratis!</li>
                             <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i class="uil uil-check-circle"></i></span>Sin limite de venta</li>
                             <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i class="uil uil-check-circle"></i></span>Productos sin limite</li>
                         </ul>

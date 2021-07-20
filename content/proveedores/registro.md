@@ -12,8 +12,8 @@ description: Haz crecer tu negocio, mantente a la vista de todos y posiciónate 
                     <p class="para-desc mx-auto text-muted">Haz crecer tu negocio, mantente a la vista de todos y posiciónate como una empresa sustentable preocupada por el medio ambiente.</p>
                     <div class="mt-4 pt-2">
                         <div class="alert alert-light alert-pills shadow" role="alert">
-                            <span class="badge badge-pill badge-danger mr-1">Lanzamiento</span>
-                            <span class="content"> Aprovecha desde  <span class="text-primary">$99/mes</span> con 30% de descuento!</span>
+                            <span class="badge badge-pill badge-danger mr-1">Hot Sale!</span>
+                            <span class="content"> Aprovecha desde  <span class="text-primary">$99/mes</span> + <img src="/images/gift.svg" style="max-height:20px;margin-top:-10px"> 3 Meses Gratis! <img src="/images/confetti.svg" style="max-height:20px;margin-top:-10px"></span>
                         </div>
                         <a href="https://flopp.me/merchantsignup?from=LPR&to=SUP" target="_blank" class="btn btn-primary">Registrate ahora <i class="mdi mdi-chevron-right"></i></a>
                     </div>

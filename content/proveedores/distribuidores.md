@@ -12,8 +12,8 @@ description: Forma parte de nuestros proveedores, ten un mayor alcance y haz cre
                     <p class="para-desc text-muted">Forma parte de nuestros proveedores, ten un mayor alcance y haz crecer tu negocio por menos de $3.50 MXN al día.</p>
                     <div class="mt-4">
                         <div class="alert alert-light alert-pills shadow" role="alert">
-                            <span class="badge badge-pill badge-danger mr-1">Lanzamiento</span>
-                            <span class="content"> Aprovecha desde  <span class="text-primary">$99/mes</span> con 30% de descuento!</span>
+                            <span class="badge badge-pill badge-danger mr-1">Hot Sale!</span>
+                            <span class="content"> Aprovecha desde  <span class="text-primary">$99/mes</span> + <img src="/images/gift.svg" style="max-height:20px;margin-top:-10px"> 3 Meses Gratis! <img src="/images/confetti.svg" style="max-height:20px;margin-top:-10px"></span>
                         </div>
                         <a href="https://flopp.me/merchantsignup?from=LPD&to=SUP" target="_blank" class="btn btn-primary mt-2 mr-2">Registrate ahora <i class="uil uil-arrow-right"></i></a>
                     </div>
@@ -119,8 +119,8 @@ description: Forma parte de nuestros proveedores, ten un mayor alcance y haz cre
                     <p class="text-muted para-desc mx-auto mb-0">Genera ingresos en <span class="text-primary font-weight-bold">automático</span> y ahorra tiempo, esfuerzo y trabaja buscando clientes.</p>
                     <div class="mt-3">
                         <div class="alert alert-light alert-pills shadow" role="alert">
-                            <span class="badge badge-pill badge-danger mr-1">Lanzamiento</span>
-                            <span class="content"> Aprovecha desde  <span class="text-primary">$99/mes</span> con 30% de descuento!</span>
+                            <span class="badge badge-pill badge-danger mr-1">Hot Sale!</span>
+                            <span class="content"> Aprovecha desde  <span class="text-primary">$99/mes</span> + <img src="/images/gift.svg" style="max-height:20px;margin-top:-10px"> 3 Meses Gratis! <img src="/images/confetti.svg" style="max-height:20px;margin-top:-10px"></span>
                         </div>
                         <a href="https://flopp.me/merchantsignup?from=LPP&to=SUP" target="_blank" class="btn btn-primary mt-2 mr-2">Regístrate ahora <i class="uil uil-arrow-right"></i></a>
                     </div>
