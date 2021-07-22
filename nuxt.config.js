@@ -8,6 +8,7 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1, user-scalable=no' },
+      { name: 'facebook-domain-verification', content: 'sqxtq9ipf63jgiks2by64izs4xy9nl'},
       { hid: 'description', name: 'description', content: 'Comprá productos cerca de ti y ahorra hasta 30% en todos tus ingredientes, con productos frescos, directos del campo, sobre pedido. Trabajamos bajo demanda, lo que nos permite no tener almacenes y por lo tanto, menos desperdicio de alimentos.' },
       { hid: 'og:type', name: 'og:type', content: 'website' },
       {
